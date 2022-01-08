@@ -1,0 +1,3 @@
+(rasaenv) E:\Automation\Bots\PersonalBot\Rasa>rasa run --cors "*" --enable-api
+
+(rasaenv) E:\Automation\Bots\PersonalBot\Rasa>rasa run actions
