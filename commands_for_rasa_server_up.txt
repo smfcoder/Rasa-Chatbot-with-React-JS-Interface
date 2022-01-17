@@ -1,3 +1,16 @@
+I)installing rasa
+>conda deactivate
+>conda create -n rasaenv
+>conda activate rasaenv
+>pip install rasa
+>rasa init
+(install in current directory)
+
+
+II)to communicate with rasa in cmd
+>rasa shell
+
+II)running rasa end points:
 (rasaenv) E:\Automation\Bots\PersonalBot\Rasa>rasa run --cors "*" --enable-api
 
 (rasaenv) E:\Automation\Bots\PersonalBot\Rasa>rasa run actions
